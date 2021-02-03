@@ -1,0 +1,7 @@
+GATK="/home/origene/yinshan.cui/bin/gatk-4.1.9.0/gatk"
+BWA="/home/origene/yinshan.cui/miniconda3/pkgs/bwa-0.7.17-hed695b0_7/bin/bwa"
+FASTP="/home/origene/yinshan.cui/miniconda3/pkgs/fastp-0.20.1-h8b12597_0/bin/fastp"
+SAMTOOLS="/home/origene/yinshan.cui/bin/bin/samtools"
+BCFTOOLS="/home/origene/yinshan.cui/miniconda3/envs/bcftools/bin/bcftools"
+CONVERT2ANNOVAR="perl /home/origene/yinshan.cui/bin/annovar-master/convert2annovar.pl"
+TABLE_ANNOVAR="perl /home/origene/yinshan.cui/bin/annovar-master/table_annovar.pl"

@@ -1,0 +1,13 @@
+start fastp running
+start bwa mapping
+start GATK MarkDuplicates
+start GATK BaseRecalibrator
+Tool returned:
+SUCCESS
+Tool returned:
+SUCCESS
+Tool returned:
+SUCCESS
+start GATK ApplyBQSR
+start GATK HaplotypeCaller
+start GATK GenotypeGVCFs
